@@ -960,3 +960,8 @@ section {
 .img-feet{
   border: 2px solid #000000;
 }
+
+.img-fluid-projet{
+  max-width: 800px;
+  max-height: 800px;
+}
